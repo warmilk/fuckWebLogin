@@ -3,3 +3,15 @@
 
 
 <img src="https://s3.ax1x.com/2020/12/14/ruJxiQ.png" alt="fuckWeb.png" border="0" />
+
+## 使用
+
+安装依赖
+```
+pip install -r requirements.txt
+```
+
+启动脚本
+```
+python3 fuck.py
+```
