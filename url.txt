@@ -1,0 +1,27 @@
+#若为#开头则忽略此行
+# http://www.baidu.cn/login.asp
+# http://www.baidu.cn/login.aspx
+# http://www.baidu.cn/login.php
+# http://www.baidu.cn/login.jsp
+
+http://www.cookies-phangan.com/form/login.asp
+https://cs.mtech.edu/institute/login.php
+http://www.afrlchallenge.com/admin/
+http://122.225.19.20/(ieagzyi2olcnt245ykuohv55)/default2.aspx
+http://202.200.112.200/(wn3nq5y5bcqw22elrjjabx45)/default2.aspx
+http://jwgl.fafu.edu.cn/(i1utrp55srhtmw45hw133f45)/default2.aspx
+http://202.203.132.204:8019/(j1cxzk45nmjubrqki23gq055)/default2.aspx
+http://218.75.197.123:83/
+http://jwmis.dzvtc.edu.cn/web/web/web/index
+https://id-443.webvpn.wzvtc.cn/cas/login?service=https%3A%2F%2Fwebvpn.wzvtc.cn%2Fusers%2Fauth%2Fcas%2Fcallback%3Furl%3Dhttps%253A%252F%252Fjwc.wzvtc.cn%252F
+http://xuanke.rzpt.cn/
+http://gpbarker.com/login.php
+https://www.jvpdlab.com/5.9/admin-login.php
+
+#华南师范
+https://jwc.scnu.edu.cn/  
+
+#浙大
+http://jwbinfosys.zju.edu.cn/default2.aspx 
+
+http://jwgl.ncist.edu.cn/
